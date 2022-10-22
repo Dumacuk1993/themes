@@ -1,0 +1,12 @@
+.main.light {
+    --bg-primary: #B0B5BD;
+    --bg-secondary: #F8F8F8;
+    --bg-input: #DFDADA;
+    --color-text-500: #585050;
+    --color-text-800: #0B0A0A;
+    --color-text-100: #F8F8F8; 
+    --color-text-700: #205EB0;
+    --color-text-300: #887C7C;
+    --border-color: #2A75DB;
+    --border-color-focus: #AAC9F1;
+}

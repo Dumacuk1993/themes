@@ -1,0 +1,12 @@
+.main.dark {
+    --bg-primary: #0C0D0D;
+    --bg-secondary: #1E1D1D;
+    --bg-input: #585050;
+    --color-text-500: #DFDADA;
+    --color-text-800: #F3F3F3;
+    --color-text-100: #424242; 
+    --color-text-700: #AAC9F1;
+    --color-text-300: #887C7C;
+    --border-color: #B9D5FC;
+    --border-color-focus: #AAC9F1;    
+}
